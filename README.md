@@ -1,6 +1,6 @@
 # Task Manager
 
-<p> The task manager uses HTML, CSS, and JavaScript to provide users with a reliable and efficient task management solution, ensuring a seamless user experience.</p>
+<p> The task manager uses HTML, CSS, and JavaScript to provide users with a reliable and efficient task management solution, ensuring a seamless user experience. </p>
 
 <h2>Features</h2>
 <ul>
